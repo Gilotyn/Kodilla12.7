@@ -4,7 +4,9 @@
 
 body {
   margin: 0 auto;
-  background: url(https://i.imgur.com/LKHaygm.jpg);
+  background: url(https://imgur.com/xHeqbYu.jpg);
+  background-size: cover;
+  position: relative;
   font-family: 'Lobster', cursive;
   max-width: 100%;
 }
